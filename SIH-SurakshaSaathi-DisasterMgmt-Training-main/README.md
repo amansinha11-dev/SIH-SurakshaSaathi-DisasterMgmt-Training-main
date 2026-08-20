@@ -260,7 +260,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | **Yuvakshi Jyala** | UI/UX Designer & Documentation Lead | - |
 | **Gaurav** | Backend Developer & DevOps Engineer | - |
 | **Kanishka** | Database Architect & Supabase Integration | - |
-| **Aman Sinha** | QA Engineer & Junior Frontend Developer | - |
+| **Aman Sinha** | QA Engineer & Frontend Developer & DataBase |[@amansinha11-dev](https://github.com/amansinha11-dev)|
 
 ## 🏆 Acknowledgments
 
@@ -277,6 +277,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 🐙 GitHub: [@bhanukumardev](https://github.com/bhanukumardev)
 - 🌐 Portfolio: [bhanukumardev.github.io/bhanu-portfolio](https://bhanukumardev.github.io/bhanu-portfolio/)
 
+**Aman Sinha**
+- 📧 Email: sinhaaman479@gmail.com
+- 💼 LinkedIn: [https://www.linkedin.com/in/aman-sinha-2412res/](https://www.linkedin.com/in/aman-sinha-2412res/)
+- 🐙 GitHub: [@amansinha11-dev](https://github.com/amansinha11-dev)
+- 🌐 Portfolio: [https://amansinhaportfoilo.netlify.app/](https://amansinhaportfoilo.netlify.app/)
 ## 📚 Additional Resources
 
 - [Project Documentation](docs/)
